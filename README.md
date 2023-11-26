@@ -22,15 +22,11 @@ This is a simple implementation of the Tic Tac Toe game in Python, featuring a s
 
 2.Navigate to the project directory:
 
-    ```bash
-
-  cd tic-tac-toe
+     cd tic-tac-toe
 
 3.Run the game:
 
-  ```bash
-
-    python tic_tac_toe.py
+      python tic_tac_toe.py
 
 4.Follow the on-screen instructions to play the game.
 
