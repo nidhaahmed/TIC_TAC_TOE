@@ -22,21 +22,23 @@ This is a simple implementation of the Tic Tac Toe game in Python, featuring a s
 
 2.Navigate to the project directory:
 
-     cd tic-tac-toe
+        cd tic-tac-toe
 
 3.Run the game:
 
-      python tic_tac_toe.py
+         python tic_tac_toe.py
+         
+4.Follow the on-screen instructions to play the game:
 
-4.Follow the on-screen instructions to play the game.
+      Enjoy your game and don't forget to give me a ⭐
 
-Gameplay
+## Gameplay
 
     In single-player mode, you play as "X" against the computer AI ("O").
     In multi-player mode, you can play against another human player.
 
-Contributors
+## Contributors
 
     Mohammad Nidha Ahmed
 
-Feel free to contribute or report issues!
+## Feel free to contribute or report issues!
